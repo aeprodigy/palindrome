@@ -4,3 +4,9 @@ h1{
     font-weight: bold;
     font-family: sans-serif;
 }
+body {
+  text-align: center;
+}
+p {
+  font-weight: bold;
+}
